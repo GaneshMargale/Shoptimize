@@ -1,0 +1,324 @@
+{
+	"initialItems": [
+		{
+			"id": 1,
+			"description": "Apples",
+			"quantity": 4,
+			"category": "Fruit",
+			"price": 200,
+			"suggestion": "Consider adding pears for variety."
+		},
+		{
+			"id": 2,
+			"description": "Bananas",
+			"quantity": 6,
+			"category": "Fruit",
+			"price": 30,
+			"suggestion": "Try mangoes or a tropical fruit."
+		},
+		{
+			"id": 18,
+			"description": "Oranges",
+			"quantity": 5,
+			"category": "Fruit",
+			"price": 100,
+			"suggestion": "Add some lemons for juicing or zest."
+		},
+		{
+			"id": 24,
+			"description": "Grapes",
+			"quantity": 2,
+			"category": "Fruit",
+			"price": 150,
+			"suggestion": "Consider melons for a refreshing snack."
+		},
+		{
+			"id": 25,
+			"description": "Pineapple",
+			"quantity": 1,
+			"category": "Fruit",
+			"price": 300,
+			"suggestion": "Add kiwi for a tropical mix."
+		},
+		{
+			"id": 3,
+			"description": "Carrots",
+			"quantity": 2,
+			"category": "Vegetable",
+			"price": 50,
+			"suggestion": "Pick up some celery for soups or snacks."
+		},
+		{
+			"id": 9,
+			"description": "Tomatoes",
+			"quantity": 3,
+			"category": "Vegetable",
+			"price": 45,
+			"suggestion": "Add bell peppers for stir-fries or salads."
+		},
+		{
+			"id": 10,
+			"description": "Potatoes",
+			"quantity": 4,
+			"category": "Vegetable",
+			"price": 60,
+			"suggestion": "Try sweet potatoes for a healthy twist."
+		},
+		{
+			"id": 17,
+			"description": "Onion",
+			"quantity": 3,
+			"category": "Vegetable",
+			"price": 90,
+			"suggestion": "Garlic is a great complementary item."
+		},
+		{
+			"id": 20,
+			"description": "Spinach",
+			"quantity": 1,
+			"category": "Vegetable",
+			"price": 25,
+			"suggestion": "Consider buying kale or lettuce for greens."
+		},
+		{
+			"id": 26,
+			"description": "Cabbage",
+			"quantity": 1,
+			"category": "Vegetable",
+			"price": 40,
+			"suggestion": "Add cauliflower for variety."
+		},
+		{
+			"id": 27,
+			"description": "Mushrooms",
+			"quantity": 1,
+			"category": "Vegetable",
+			"price": 80,
+			"suggestion": "Try asparagus for a gourmet option."
+		},
+		{
+			"id": 4,
+			"description": "Milk",
+			"quantity": 1,
+			"category": "Dairy",
+			"price": 60,
+			"suggestion": "Add cream for desserts or cooking."
+		},
+		{
+			"id": 5,
+			"description": "Eggs",
+			"quantity": 12,
+			"category": "Dairy",
+			"price": 72,
+			"suggestion": "Consider butter or margarine for baking."
+		},
+		{
+			"id": 11,
+			"description": "Butter",
+			"quantity": 1,
+			"category": "Dairy",
+			"price": 50,
+			"suggestion": "Pair with jam or honey for spreads."
+		},
+		{
+			"id": 12,
+			"description": "Cheese",
+			"quantity": 1,
+			"category": "Dairy",
+			"price": 120,
+			"suggestion": "Try adding sour cream for dips."
+		},
+		{
+			"id": 13,
+			"description": "Yogurt",
+			"quantity": 2,
+			"category": "Dairy",
+			"price": 80,
+			"suggestion": "Consider flavored yogurt or probiotics."
+		},
+		{
+			"id": 28,
+			"description": "Paneer",
+			"quantity": 1,
+			"category": "Dairy",
+			"price": 150,
+			"suggestion": "Add tofu as a vegetarian protein option."
+		},
+		{
+			"id": 14,
+			"description": "Cereal",
+			"quantity": 1,
+			"category": "Snacks",
+			"price": 250,
+			"suggestion": "Add granola bars for quick snacks."
+		},
+		{
+			"id": 16,
+			"description": "Chips",
+			"quantity": 2,
+			"category": "Snacks",
+			"price": 60,
+			"suggestion": "Try pretzels or popcorn for variety."
+		},
+		{
+			"id": 19,
+			"description": "Chocolate",
+			"quantity": 2,
+			"category": "Snacks",
+			"price": 100,
+			"suggestion": "Add nuts or dried fruits for a mix."
+		},
+		{
+			"id": 29,
+			"description": "Cookies",
+			"quantity": 1,
+			"category": "Snacks",
+			"price": 120,
+			"suggestion": "Consider crackers for a savory option."
+		},
+		{
+			"id": 30,
+			"description": "Energy Bars",
+			"quantity": 3,
+			"category": "Snacks",
+			"price": 180,
+			"suggestion": "Try protein bars for fitness-friendly snacks."
+		},
+		{
+			"id": 7,
+			"description": "Chicken Breast",
+			"quantity": 1,
+			"category": "Meat & Seafood",
+			"price": 250,
+			"suggestion": "Consider fish fillets or shrimp."
+		},
+		{
+			"id": 31,
+			"description": "Salmon",
+			"quantity": 1,
+			"category": "Meat & Seafood",
+			"price": 400,
+			"suggestion": "Add prawns for a seafood variety."
+		},
+		{
+			"id": 32,
+			"description": "Beef Steak",
+			"quantity": 1,
+			"category": "Meat & Seafood",
+			"price": 500,
+			"suggestion": "Consider pork chops as an alternative."
+		},
+		{
+			"id": 6,
+			"description": "Bread",
+			"quantity": 2,
+			"category": "Pantry",
+			"price": 80,
+			"suggestion": "Pick up bagels or tortillas for alternatives."
+		},
+		{
+			"id": 8,
+			"description": "Rice",
+			"quantity": 5,
+			"category": "Pantry",
+			"price": 250,
+			"suggestion": "Add quinoa or couscous for diversity."
+		},
+		{
+			"id": 15,
+			"description": "Pasta",
+			"quantity": 3,
+			"category": "Pantry",
+			"price": 180,
+			"suggestion": "Try buying pasta sauce or noodles."
+		},
+		{
+			"id": 33,
+			"description": "Flour",
+			"quantity": 2,
+			"category": "Pantry",
+			"price": 120,
+			"suggestion": "Add baking powder for baked goods."
+		},
+		{
+			"id": 34,
+			"description": "Sugar",
+			"quantity": 2,
+			"category": "Pantry",
+			"price": 90,
+			"suggestion": "Consider jaggery or brown sugar as healthier options."
+		},
+		{
+			"id": 35,
+			"description": "Salt",
+			"quantity": 1,
+			"category": "Pantry",
+			"price": 30,
+			"suggestion": "Add pepper or spices for seasoning."
+		},
+		{
+			"id": 21,
+			"description": "Ketchup",
+			"quantity": 1,
+			"category": "Condiments & Sauces",
+			"price": 120,
+			"suggestion": "Consider mustard or mayo for variety."
+		},
+		{
+			"id": 22,
+			"description": "Olive Oil",
+			"quantity": 1,
+			"category": "Condiments & Sauces",
+			"price": 500,
+			"suggestion": "Add balsamic vinegar for dressings."
+		},
+		{
+			"id": 36,
+			"description": "Soy Sauce",
+			"quantity": 1,
+			"category": "Condiments & Sauces",
+			"price": 200,
+			"suggestion": "Try hot sauce for spicy dishes."
+		},
+		{
+			"id": 37,
+			"description": "Honey",
+			"quantity": 1,
+			"category": "Condiments & Sauces",
+			"price": 300,
+			"suggestion": "Consider maple syrup for a unique flavor."
+		},
+		{
+			"id": 23,
+			"description": "Orange Juice",
+			"quantity": 2,
+			"category": "Beverages",
+			"price": 200,
+			"suggestion": "Try adding apple juice or iced tea."
+		},
+		{
+			"id": 38,
+			"description": "Coffee",
+			"quantity": 1,
+			"category": "Beverages",
+			"price": 150,
+			"suggestion": "Consider tea bags for a caffeine alternative."
+		},
+		{
+			"id": 39,
+			"description": "Tea",
+			"quantity": 1,
+			"category": "Beverages",
+			"price": 100,
+			"suggestion": "Add herbal tea for relaxation."
+		},
+		{
+			"id": 40,
+			"description": "Bottled Water",
+			"quantity": 6,
+			"category": "Beverages",
+			"price": 120,
+			"suggestion": "Consider sparkling water for a refreshing change."
+		}
+	]
+}
